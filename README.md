@@ -39,6 +39,24 @@ Die Lernvideos zur Steuerlehre sind sehr groß. In der ZIP-Datei stecken deshalb
 
 Alle vier gibt es auch auf der [Download-Seite](https://github.com/hanraon/altklausuren-oai/releases/tag/lernvideos).
 
+## Große Dateien
+
+Bei diesen PDFs ist die Vorschau wegen der Größe oft langsam oder bricht am Handy ab. Lade sie besser direkt herunter. Die Lernvideos (42–236 MB) haben gar keine Vorschau, siehe [Lernvideos herunterladen](#lernvideos-herunterladen).
+
+| Datei | Ordner | Größe |
+| --- | --- | --- |
+| [Statistik II Mitschrift.pdf](https://github.com/hanraon/altklausuren-oai/blob/main/Ged%C3%A4chtnisprotokoll%20OAI/Zusammenfassungen/Statistik%20II/Statistik%20II%20Mitschrift.pdf) | `Zusammenfassungen/Statistik II` | 50,0 MB |
+| [Statistik II SS20.pdf](https://github.com/hanraon/altklausuren-oai/blob/main/Ged%C3%A4chtnisprotokoll%20OAI/Altklausuren/Statistik%20II/Statistik%20II%20SS20.pdf) | `Altklausuren/Statistik II` | 33,9 MB |
+| [KLR.pdf](https://github.com/hanraon/altklausuren-oai/blob/main/Ged%C3%A4chtnisprotokoll%20OAI/Altklausuren/KLR/m%C3%BCller/KLR.pdf) | `Altklausuren/KLR/müller` | 29,9 MB |
+| [KLR WS25.pdf](https://github.com/hanraon/altklausuren-oai/blob/main/Ged%C3%A4chtnisprotokoll%20OAI/Altklausuren/KLR/m%C3%BCller/KLR%20WS25.pdf) | `Altklausuren/KLR/müller` | 26,0 MB |
+| [Makro.pdf](https://github.com/hanraon/altklausuren-oai/blob/main/Ged%C3%A4chtnisprotokoll%20OAI/Altklausuren/Makro/Makro.pdf) | `Altklausuren/Makro` | 20,5 MB |
+| [Statistik II SS24.pdf](https://github.com/hanraon/altklausuren-oai/blob/main/Ged%C3%A4chtnisprotokoll%20OAI/Altklausuren/Statistik%20II/Statistik%20II%20SS24.pdf) | `Altklausuren/Statistik II` | 17,0 MB |
+| [Statistik II SS23.pdf](https://github.com/hanraon/altklausuren-oai/blob/main/Ged%C3%A4chtnisprotokoll%20OAI/Altklausuren/Statistik%20II/Statistik%20II%20SS23.pdf) | `Altklausuren/Statistik II` | 15,5 MB |
+| [Invest WS15.pdf](https://github.com/hanraon/altklausuren-oai/blob/main/Ged%C3%A4chtnisprotokoll%20OAI/Altklausuren/Invest/ws/Invest%20WS15.pdf) | `Altklausuren/Invest/ws` | 15,4 MB |
+| [Statistik II WS23.pdf](https://github.com/hanraon/altklausuren-oai/blob/main/Ged%C3%A4chtnisprotokoll%20OAI/Altklausuren/Statistik%20II/Statistik%20II%20WS23.pdf) | `Altklausuren/Statistik II` | 15,3 MB |
+| [Marketing 24.pdf](https://github.com/hanraon/altklausuren-oai/blob/main/Ged%C3%A4chtnisprotokoll%20OAI/Altklausuren/Marketing/Marketing%2024.pdf) | `Altklausuren/Marketing` | 14,9 MB |
+| [Mathe Statistik I.pdf](https://github.com/hanraon/altklausuren-oai/blob/main/Ged%C3%A4chtnisprotokoll%20OAI/Zusammenfassungen/Mathe%20Statistik%20I.pdf) | `Zusammenfassungen` | 13,8 MB |
+
 ## Was liegt wo?
 
 Alles steckt im Ordner `Gedächtnisprotokoll OAI`. Darin:
