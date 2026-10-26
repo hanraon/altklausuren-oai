@@ -26,9 +26,18 @@ Zurück kommst du jederzeit mit dem Zurück-Knopf im Browser oder über die Ordn
    - Mac: einfach doppelt draufklicken.
    - Handy: lieber einzelne Dateien laden, siehe oben.
 
-Danach hast du einen normalen Ordner mit allem drin.
+Danach hast du einen normalen Ordner mit allen Dokumenten.
 
-Die Lernvideos zur Steuerlehre sind sehr groß. Falls sie in der ZIP fehlen oder sich nicht abspielen lassen, lad sie einzeln herunter, wie oben beschrieben.
+## Lernvideos herunterladen
+
+Die Lernvideos zur Steuerlehre sind sehr groß. In der ZIP-Datei stecken deshalb nur Platzhalter. Lade die Videos stattdessen direkt herunter:
+
+- [steuerlehre.mp4 (235 MB)](https://github.com/hanraon/altklausuren-oai/releases/download/lernvideos/steuerlehre.mp4)
+- [allgemeine.mp4 (53 MB)](https://github.com/hanraon/altklausuren-oai/releases/download/lernvideos/allgemeine.mp4)
+- [einkommenssteuer.mp4 (52 MB)](https://github.com/hanraon/altklausuren-oai/releases/download/lernvideos/einkommenssteuer.mp4)
+- [umsatzsteuer.mp4 (42 MB)](https://github.com/hanraon/altklausuren-oai/releases/download/lernvideos/umsatzsteuer.mp4)
+
+Alle vier gibt es auch auf der [Download-Seite](https://github.com/hanraon/altklausuren-oai/releases/tag/lernvideos).
 
 ## Was liegt wo?
 
